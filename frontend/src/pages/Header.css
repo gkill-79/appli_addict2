@@ -1,0 +1,81 @@
+
+
+
+
+/* src/pages/Header.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #22d37a;
+    padding: 20px 40px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+  }
+  
+  .header h1 {
+    color: #fff;
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .header ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header ul li {
+    margin-left: 20px;
+  }
+  
+  .header ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s;
+  }
+  
+  .header ul li a:hover {
+    color: #ffe082;
+  }
+  
+  .account-menu {
+    display: flex;
+    align-items: center;
+  }
+  
+  .account-menu a {
+    margin-left: 15px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s;
+  }
+  
+  .account-menu a:hover {
+    color: #ffe082;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
